@@ -1,4 +1,4 @@
-package UserSystem;// 	localhost:8080에 HTTP 서버 열고, /signup·/login 요청 처리함
+package usersystem;// 	localhost:8080에 HTTP 서버 열고, /signup·/login 요청 처리함
 
 import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpExchange;
